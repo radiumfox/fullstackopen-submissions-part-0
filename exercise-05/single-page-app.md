@@ -1,8 +1,4 @@
 ```mermaid
----
-config:
-    theme: forest
----
 sequenceDiagram
     participant Browser
     participant Server
