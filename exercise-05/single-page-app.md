@@ -1,10 +1,4 @@
 ```mermaid
----
-config:
-    theme: forest
-    themeVariables:
-        background: "#ffffff"
----
 sequenceDiagram
     participant Browser
     participant Server
